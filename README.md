@@ -30,6 +30,7 @@ In the next commands, replace `Your Actual Name` with your actual name and
 
     $ git config --global user.name "Your Actual Name"
     $ git config --global user.email "Your Actual Email"
+    $ git config --global push.default simple
     $ git config --global color.ui auto
 
 #### Verify
